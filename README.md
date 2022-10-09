@@ -1,3 +1,19 @@
+
+<div align="center">
+   <h1>Namaste, I am <a href="https://www.linkedin.com/in/ayush-dixit-013632203//">Ayush</a> <img src="gif1.gif" width="25px"> </h1>
+   
+   
+   <img src="https://media2.giphy.com/media/3q1vE9VfhpdWhKve9y/giphy.gif?"> 
+</div>
+
+
+
+
+<br/>
+<br/>
+<br/>
+
+
 # 💫 About Me:
 🌱 I’m currently learning Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on Open source projects<br><br>💬 Ask me about MERN<br><br>📫 Reach me at: ayushdixit632@gmail.com
 
